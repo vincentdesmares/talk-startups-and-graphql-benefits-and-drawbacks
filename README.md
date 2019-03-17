@@ -1,4 +1,4 @@
-# A talk on GraphQL and generated APIs
+# A talk on why GraphQL can be a good choice for Startups
 
 This talk is about the pertinence of GraphQL in a startup.
 
