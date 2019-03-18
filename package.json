@@ -1,6 +1,6 @@
 {
   "name": "talk-startups-and-graphql-benefits-and-drawbacks",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "private": true,
   "dependencies": {
     "prismjs": "1.6.0",
