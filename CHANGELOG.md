@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.2.0"></a>
+# [0.2.0](https://github.com/vincentdesmares/talk-startups-and-graphql-benefits-and-drawbacks/compare/v0.1.2...v0.2.0) (2019-03-18)
+
+
+### Features
+
+* add some images. ([ae570df](https://github.com/vincentdesmares/talk-startups-and-graphql-benefits-and-drawbacks/commit/ae570df))
+
+
+
 <a name="0.1.2"></a>
 ## [0.1.2](https://github.com/vincentdesmares/talk-startups-and-graphql-benefits-and-drawbacks/compare/v0.1.1...v0.1.2) (2019-03-17)
 
