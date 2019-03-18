@@ -1,5 +1,6 @@
 import React from 'react'
 import { Heading, Slide, Text, Notes } from 'spectacle'
+import Graphql from '../graphql'
 
 export default (
   <Slide
@@ -15,6 +16,15 @@ export default (
       style={{
         top: 100,
         right: 100,
+        width: '30%',
+        opacity: '0.2'
+      }}
+    />
+    <Graphql
+      className="absolute"
+      style={{
+        bottom: 20,
+        left: 20,
         width: '30%',
         opacity: '0.2'
       }}

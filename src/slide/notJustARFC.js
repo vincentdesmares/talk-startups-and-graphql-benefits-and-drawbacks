@@ -1,5 +1,6 @@
 import React from 'react'
 import { Heading, Slide, Notes, List, ListItem } from 'spectacle'
+import Warning from '../warning'
 
 export default (
   <Slide
@@ -9,16 +10,7 @@ export default (
     progressColor="black"
     controlColor="black"
   >
-    <img
-      className="absolute z-0"
-      alt="warning"
-      style={{
-        width: 300,
-        right: 100,
-        bottom: 100
-      }}
-      src="assets/images/box.svg"
-    />
+    <Warning />
     <Notes>
       <p>My first point is that you are not going to just adopt a new RFC.</p>
       <p>

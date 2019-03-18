@@ -1,5 +1,6 @@
 import React from 'react'
 import { Heading, Slide, Text } from 'spectacle'
+import Graphql from '../graphql'
 
 const fireworksStyle = `.pyro >.before,
 .pyro>.after {
@@ -66,7 +67,7 @@ export default (
     controlColor="black"
   >
     <style>{fireworksStyle}</style>
-
+    <Graphql style={{ width: 300 }} />
     <Heading size={2} textColor="pink" caps>
       We're done!
     </Heading>

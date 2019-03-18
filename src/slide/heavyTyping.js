@@ -20,6 +20,16 @@ export default (
         easily setup (3-4 lines of code).
       </p>
     </Notes>
+    <img
+      className="absolute z-0"
+      alt="react"
+      style={{
+        width: '20%',
+        right: 80,
+        bottom: 80
+      }}
+      src="assets/images/react.svg"
+    />
     <Heading size={6} textColor="BLACK" caps fit>
       HEAVY TYPING
     </Heading>
