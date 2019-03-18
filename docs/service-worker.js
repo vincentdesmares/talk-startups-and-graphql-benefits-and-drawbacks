@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://vincentdesmares.github.io/talk-startups-and-graphql-benefits-and-drawbacks/precache-manifest.d9f884908ddea47b80d1d4dd969134ea.js"
+  "https://vincentdesmares.github.io/talk-startups-and-graphql-benefits-and-drawbacks/precache-manifest.42554d41d2a97cccdfdf22baf482f011.js"
 );
 
 workbox.clientsClaim();
