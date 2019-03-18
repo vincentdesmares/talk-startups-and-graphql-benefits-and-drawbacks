@@ -1,14 +1,16 @@
 import React from 'react'
 import { Heading, Slide, Notes, List, ListItem } from 'spectacle'
+import Warning from '../warning'
 
 export default (
   <Slide
-    transition={['fade']}
+    transition={['zoom']}
     bgColor="red"
     textColor="black"
     progressColor="black"
     controlColor="black"
   >
+    <Warning />
     <Notes>
       <p>Only on type of entity</p>
     </Notes>

@@ -3,11 +3,21 @@ import { Slide, Heading, List, ListItem } from 'spectacle'
 
 export default (
   <Slide
-    transition={['zoom']}
+    transition={['fade']}
     bgColor="white"
     progressColor="black"
     controlColor="black"
   >
+    <img
+      className="absolute z-0"
+      alt="warning"
+      style={{
+        width: '25%',
+        right: 150,
+        bottom: 100
+      }}
+      src="assets/images/blocks.svg"
+    />
     <Heading fit textColor="pink" caps>
       They said to use APIs
     </Heading>

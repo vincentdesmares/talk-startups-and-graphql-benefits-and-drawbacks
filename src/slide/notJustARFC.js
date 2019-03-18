@@ -9,6 +9,16 @@ export default (
     progressColor="black"
     controlColor="black"
   >
+    <img
+      className="absolute z-0"
+      alt="warning"
+      style={{
+        width: 300,
+        right: 100,
+        bottom: 100
+      }}
+      src="assets/images/box.svg"
+    />
     <Notes>
       <p>Only on type of entity</p>
     </Notes>

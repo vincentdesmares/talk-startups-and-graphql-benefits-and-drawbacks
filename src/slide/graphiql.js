@@ -9,6 +9,6 @@ export default (
     progressColor="black"
     controlColor="black"
   >
-    <img className="pt5" src="assets/images/graphiql.png" />
+    <img className="pt5" src="assets/images/graphiql.png" alt="graphiql" />
   </Slide>
 )

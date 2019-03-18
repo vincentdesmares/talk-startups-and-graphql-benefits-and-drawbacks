@@ -8,6 +8,17 @@ export default (
     progressColor="black"
     controlColor="black"
   >
+    <img
+      src="assets/images/logo-cut.svg"
+      alt="Teamstarter logo"
+      className="fixed"
+      style={{
+        top: 100,
+        right: 100,
+        width: '30%',
+        opacity: '0.2'
+      }}
+    />
     <Notes>
       <p>ASK QUESTION ABOUT SERVER SIDE CODE</p>
       <p>
@@ -44,17 +55,5 @@ export default (
     <Text textColor="blue" fit bold>
       A postmortem from teamstarter.co
     </Text>
-    <img
-      src="assets/images/logo-cut.svg"
-      alt="Teamstarter logo"
-      style={{
-        position: 'fixed',
-        top: -100,
-        right: -100,
-        width: '50%',
-        zIndex: '-1',
-        opacity: '0.2'
-      }}
-    />
   </Slide>
 )

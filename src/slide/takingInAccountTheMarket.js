@@ -9,13 +9,23 @@ export default (
     progressColor="black"
     controlColor="black"
   >
+    <img
+      className="absolute z-0"
+      alt="warning"
+      style={{
+        width: '25%',
+        right: 150,
+        bottom: 100
+      }}
+      src="assets/images/team.svg"
+    />
     <Notes>
       <p>Only on type of entity</p>
     </Notes>
     <Heading size={6} textColor="blue" caps fit>
       Taking the market in account
     </Heading>
-    <List>
+    <List style={{ marginBottom: 200 }}>
       <ListItem>A tech is nothing without developers</ListItem>
       <ListItem>Check your local market</ListItem>
     </List>

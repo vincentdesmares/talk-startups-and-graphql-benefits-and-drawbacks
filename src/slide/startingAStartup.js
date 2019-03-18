@@ -1,5 +1,6 @@
 import React from 'react'
 import { Slide, Heading, Text } from 'spectacle'
+import Warning from '../warning'
 
 export default (
   <Slide
@@ -8,6 +9,7 @@ export default (
     progressColor="black"
     controlColor="black"
   >
+    <Warning />
     <Heading fit textColor="black" caps>
       STARTING A STARTUP
     </Heading>
