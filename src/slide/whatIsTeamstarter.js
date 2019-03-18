@@ -11,12 +11,12 @@ export default (
     <Notes>
       <p>Organization allow monthly funds</p>
       <p>Each person received it continuously</p>
-      <p>Anyone can create a and back a project</p>
+      <p>Anyone can create and back a project</p>
       <p>
         Arcade box / Christmas decorations / Raclette party / Board games /
         Conferences
       </p>
-      <p>Starting a new project: know your priorities</p>
+      <p>Launched last September but started the V1 in the end of 2017.</p>
     </Notes>
     <Heading size={1} caps lineHeight={1} textColor="white" fit>
       What's teamstarter?

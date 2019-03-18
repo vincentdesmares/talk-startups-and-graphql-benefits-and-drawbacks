@@ -20,7 +20,7 @@ export default (
       src="assets/images/team.svg"
     />
     <Notes>
-      <p>Only on type of entity</p>
+      <p>My first of my advice not really related to the tech itself.</p>
     </Notes>
     <Heading size={6} textColor="blue" caps fit>
       Taking the market in account

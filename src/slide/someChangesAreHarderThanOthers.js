@@ -12,7 +12,7 @@ export default (
   >
     <Warning />
     <Notes>
-      <p>Only on type of entity</p>
+      <p>It can be hard to see what is not working "The old way"</p>
     </Notes>
     <Heading size={6} textColor="WHITE" caps fit>
       SOME CHANGES FROM REST
@@ -21,9 +21,9 @@ export default (
       ARE HARDER THAN OTHERS
     </Heading>
     <List textColor="white">
-      <ListItem>No full use of HTTP (* is a POST)</ListItem>
-      <ListItem>Difficult to cache without proper tooling</ListItem>
       <ListItem>Setup your logs correctly (* is a 200)</ListItem>
+      <ListItem>Difficult to cache without proper tooling</ListItem>
+      <ListItem>No full use of HTTP (* is a POST)</ListItem>
     </List>
   </Slide>
 )

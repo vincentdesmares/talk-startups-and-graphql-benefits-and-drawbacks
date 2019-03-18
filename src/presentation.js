@@ -66,9 +66,9 @@ export default class Presentation extends React.Component {
         {speedAndBugs}
         {someChangesAreHarderThanOthers}
         {heavyTyping}
-        {takingInAccountTheMarket}
         {everythingIsAnAPI}
         {useAPIs}
+        {takingInAccountTheMarket}
         {beConfident}
         {youDoNotHaveToChooseAlone}
         {Questions}

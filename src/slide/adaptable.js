@@ -10,7 +10,12 @@ export default (
     controlColor="black"
   >
     <Notes>
-      <p>Only on type of entity</p>
+      <p>
+        I was scared that I could not do "Everything" like I was doing before
+        with GraphQL.
+      </p>
+      <p>Truth is that I haven't find a use case that could not be met.</p>
+      <p>At least at my scale I'm very happy.</p>
     </Notes>
     <Heading size={6} textColor="pink" caps fit>
       ADAPTABLE

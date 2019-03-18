@@ -10,7 +10,9 @@ export default (
     controlColor="black"
   >
     <Notes>
-      <p>Only on type of entity</p>
+      <p>Avoid a lot of requests and data-merging.</p>
+      <p>Allow easy evolution of your client AND server code.</p>
+      <p>Yet... all magic comes with a price</p>
     </Notes>
     <Heading size={6} textColor="black" caps fit>
       EVOLUTION READY

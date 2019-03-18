@@ -9,10 +9,7 @@ export default (
     controlColor="black"
   >
     <Notes>
-      <p>
-        If you have a good idea, it's only a matters of time until your
-        competitors try to race you.
-      </p>
+      <p>Please everyone, lover of hatters, chill.</p>
     </Notes>
     <Heading size={1} caps lineHeight={1} fit textColor="black">
       USE WHAT YOU LIKE

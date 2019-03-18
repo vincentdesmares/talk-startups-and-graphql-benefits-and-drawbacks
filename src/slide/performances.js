@@ -12,7 +12,9 @@ export default (
   >
     <Warning />
     <Notes>
-      <p>Only on type of entity</p>
+      <p>Complex dynamic queries creates complex dynamic problems.</p>
+      <p>Solutions are available.</p>
+      <p>But in general careless programming will quickly kill your app.</p>
     </Notes>
     <Heading size={6} textColor="WHITE" caps fit>
       PERFORMANCES ISSUES

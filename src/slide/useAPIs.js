@@ -1,5 +1,5 @@
 import React from 'react'
-import { Slide, Heading, List, ListItem } from 'spectacle'
+import { Slide, Heading, List, ListItem, Notes } from 'spectacle'
 
 export default (
   <Slide
@@ -18,6 +18,15 @@ export default (
       }}
       src="assets/images/blocks.svg"
     />
+
+    <Notes>
+      <p>We'll now talking about OTHERS APIs.</p>
+      <p>You can compose them with the schema stitching</p>
+      <p>
+        It "should" be nice but it's difficult to find good ones right now.
+        Through it becomes better everyday.
+      </p>
+    </Notes>
     <Heading fit textColor="pink" caps>
       They said to use APIs
     </Heading>

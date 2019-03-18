@@ -9,7 +9,10 @@ export default (
     controlColor="black"
   >
     <Notes>
-      <p>We did not choose GraphQL just by reading blog posts.</p>
+      <p>
+        Last point before wrapping up. We did not choose GraphQL just by reading
+        blog posts.
+      </p>
     </Notes>
     <Heading size={1} caps lineHeight={1} fit textColor="white">
       YOU DO NOT HAVE TO

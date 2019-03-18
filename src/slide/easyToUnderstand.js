@@ -20,7 +20,14 @@ export default (
       src="assets/images/learning.svg"
     />
     <Notes>
-      <p>Only on type of entity</p>
+      <p>
+        A technologie can be nice, but if it's too difficult to onboard you can
+        have a real problem of turnover.
+      </p>
+      <p>
+        The fastest one learn a new technology, the more value he brings to your
+        project before leaving the company.
+      </p>
     </Notes>
     <Heading size={6} textColor="pink" caps fit>
       NICE LEARNING CURVE

@@ -10,7 +10,10 @@ export default (
     controlColor="black"
   >
     <Notes>
-      <p>Only on type of entity</p>
+      <p>
+        When you have no money it's something to consider. Better than some
+        solutions out there.
+      </p>
     </Notes>
     <Heading size={6} textColor="pink" caps fit>
       OPEN SOURCE

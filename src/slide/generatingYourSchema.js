@@ -9,9 +9,7 @@ export default (
     progressColor="black"
     controlColor="black"
   >
-    <Notes>
-      <p>Only on type of entity</p>
-    </Notes>
+    <Notes>Types are often already part of your server code.</Notes>
     <Heading size={6} textColor="pink" caps fit>
       GENERATE YOUR SCHEMA
     </Heading>

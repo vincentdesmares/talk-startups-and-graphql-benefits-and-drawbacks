@@ -10,7 +10,8 @@ export default (
     controlColor="black"
   >
     <Notes>
-      <p>Only on type of entity</p>
+      <p>You will never look at swagger the same way.</p>
+      <p>Very good default developer experience.</p>
     </Notes>
     <Heading size={6} textColor="WHITE" caps fit>
       EVERYTHING IS AN API

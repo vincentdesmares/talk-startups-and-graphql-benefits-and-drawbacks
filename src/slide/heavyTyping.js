@@ -10,7 +10,15 @@ export default (
     controlColor="black"
   >
     <Notes>
-      <p>Only on type of entity</p>
+      <p>
+        We talked about the problem of heavy typing and how it can adds a few
+        minutes to create a new type.
+      </p>
+      <p>But this will allow to win a few hours later.</p>
+      <p>
+        As everything is typed, marvelous, cash and refresh mechanism can be
+        easily setup (3-4 lines of code).
+      </p>
     </Notes>
     <Heading size={6} textColor="BLACK" caps fit>
       HEAVY TYPING

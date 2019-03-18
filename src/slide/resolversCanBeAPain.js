@@ -12,7 +12,9 @@ export default (
   >
     <Warning />
     <Notes>
-      <p>Only on type of entity</p>
+      <p>Resolvers are not difficult to write</p>
+      <p>It's just long and cumbersome.</p>
+      <p>Mostly because of types...</p>
     </Notes>
     <Heading size={6} textColor="WHITE" caps fit>
       WE'VE SEEN SHORTER

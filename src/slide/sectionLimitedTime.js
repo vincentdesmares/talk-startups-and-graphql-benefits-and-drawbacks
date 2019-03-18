@@ -11,7 +11,9 @@ export default (
     <Notes>
       <p>
         If you have a good idea, it's only a matters of time until your
-        competitors try to race you.
+        competitors try to race you. You are in constant need for speed. And
+        what will matter is how much you can deliver today and how much what you
+        deliver today will slow you down for delivering tomorrow.
       </p>
     </Notes>
     <Heading size={1} caps lineHeight={1} fit textColor="black">

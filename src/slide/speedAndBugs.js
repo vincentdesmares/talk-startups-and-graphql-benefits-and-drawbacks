@@ -10,7 +10,10 @@ export default (
     controlColor="black"
   >
     <Notes>
-      <p>Only on type of entity</p>
+      <p>One thing that appeared to me after months of dev.</p>
+      <p>Is how resilient my app was.</p>
+      <p>One element cannot be fetched? You app doesn't entierelly die.</p>
+      <p>Yet errors can be tricky in another way.</p>
     </Notes>
     <Heading size={6} textColor="BLACK" caps fit>
       WITH DELIVERING A LOT
