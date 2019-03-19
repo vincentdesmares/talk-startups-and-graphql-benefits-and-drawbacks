@@ -10,6 +10,16 @@ export default (
     controlColor="black"
   >
     <Notes>Types are often already part of your server code.</Notes>
+    <img
+      src="assets/images/factory.svg"
+      alt="Teamstarter logo"
+      className="fixed"
+      style={{
+        bottom: 100,
+        right: 100,
+        width: '20%'
+      }}
+    />
     <Heading size={6} textColor="pink" caps fit>
       GENERATE YOUR SCHEMA
     </Heading>

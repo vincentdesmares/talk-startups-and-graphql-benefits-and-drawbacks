@@ -19,8 +19,8 @@ export default (
     <Heading size={6} textColor="WHITE" caps fit>
       PERFORMANCES ISSUES
     </Heading>
-    <Heading size={6} textColor="WHITE" caps fit>
-      ARE GRAPHQL BIGGEST PROBLEM
+    <Heading size={6} textColor="black" caps fit>
+      ARE GRAPHQL BIGGEST PROBLEMS
     </Heading>
     <List textColor="white">
       <ListItem>Yes it avoids overfetch, but...</ListItem>

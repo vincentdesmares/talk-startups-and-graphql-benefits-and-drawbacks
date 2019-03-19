@@ -14,6 +14,16 @@ export default (
       <p>Allow easy evolution of your client AND server code.</p>
       <p>Yet... all magic comes with a price</p>
     </Notes>
+    <img
+      src="assets/images/prototype.svg"
+      alt="Teamstarter logo"
+      className="fixed"
+      style={{
+        bottom: 100,
+        right: 100,
+        width: '20%'
+      }}
+    />
     <Heading size={6} textColor="black" caps fit>
       EVOLUTION READY
     </Heading>
@@ -22,8 +32,8 @@ export default (
     </Heading>
     <List>
       <ListItem>"ask-what-you-need" for each call</ListItem>
-      <ListItem>No versioning, field deprecation</ListItem>
-      <ListItem>Reduce the needs for custom endpoints</ListItem>
+      <ListItem>Reduces the need for custom endpoints</ListItem>
+      <ListItem>No versioning: field deprecation</ListItem>
     </List>
   </Slide>
 )

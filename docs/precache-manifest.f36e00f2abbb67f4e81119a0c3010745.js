@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "https://vincentdesmares.github.io/talk-startups-and-graphql-benefits-and-drawbacks/static/js/runtime~main.3d52553d.js"
   },
   {
-    "revision": "affb0aa680b7de45d699",
-    "url": "https://vincentdesmares.github.io/talk-startups-and-graphql-benefits-and-drawbacks/static/js/main.affb0aa6.chunk.js"
+    "revision": "31520e5966b68a64d14a",
+    "url": "https://vincentdesmares.github.io/talk-startups-and-graphql-benefits-and-drawbacks/static/js/main.31520e59.chunk.js"
   },
   {
     "revision": "5501114ba191459bf1fc",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "https://vincentdesmares.github.io/talk-startups-and-graphql-benefits-and-drawbacks/static/css/1.044f9425.chunk.css"
   },
   {
-    "revision": "4495a9cf89fa6de348be36bce194b603",
+    "revision": "6e843318a276103a26a155011af69931",
     "url": "https://vincentdesmares.github.io/talk-startups-and-graphql-benefits-and-drawbacks/index.html"
   }
 ];

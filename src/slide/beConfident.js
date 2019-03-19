@@ -15,7 +15,10 @@ export default (
       USE WHAT YOU LIKE
     </Heading>
     <Heading size={1} caps lineHeight={1} fit textColor="pink">
-      LET'S TONE DOWN THE RHETORIC
+      LET'S TONE DOWN THE RHETORIC{' '}
+      <span role="img" aria-label="heart">
+        💖
+      </span>
     </Heading>
     <Text>
       ‘Great developers — not programming languages — build great

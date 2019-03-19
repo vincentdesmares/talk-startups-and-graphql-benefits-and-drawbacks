@@ -1,6 +1,5 @@
 import React from 'react'
 import { Heading, Slide, Notes, List, ListItem } from 'spectacle'
-import Warning from '../warning'
 
 export default (
   <Slide
@@ -10,7 +9,16 @@ export default (
     progressColor="black"
     controlColor="black"
   >
-    <Warning />
+    <img
+      src="assets/images/box.svg"
+      alt="Teamstarter logo"
+      className="fixed"
+      style={{
+        bottom: 100,
+        right: 100,
+        width: '15%'
+      }}
+    />
     <Notes>
       <p>My first point is that you are not going to just adopt a new RFC.</p>
       <p>
