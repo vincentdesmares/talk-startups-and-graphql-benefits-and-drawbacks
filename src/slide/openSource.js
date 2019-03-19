@@ -25,6 +25,7 @@ export default (
       <ListItem>Facebook backed</ListItem>
       <ListItem>Yet not facebook centric</ListItem>
       <ListItem>Kickstart your project with a SaaS</ListItem>
+      <ListItem>GraphCool/Prisma (BaaS), Contentful</ListItem>
     </List>
   </Slide>
 )

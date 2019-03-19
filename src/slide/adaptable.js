@@ -18,7 +18,7 @@ export default (
       <p>At least at my scale I'm very happy.</p>
     </Notes>
     <Heading size={6} textColor="pink" caps fit>
-      ADAPTABLE
+      HACKABLE
     </Heading>
     <Text>File upload, even on GraphQL!</Text>
     <Text>(and it's not that hard)</Text>

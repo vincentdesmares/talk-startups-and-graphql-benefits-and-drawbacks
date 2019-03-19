@@ -26,7 +26,6 @@ export default (
       <ListItem>Yes it avoids overfetch, but...</ListItem>
       <ListItem>"Infinite" query complexity</ListItem>
       <ListItem>Query time issues</ListItem>
-      <ListItem>Rights must be "smart"</ListItem>
       <ListItem>Query batching ? Facebook dataloader</ListItem>
       <ListItem>Keep performances in mind at all times</ListItem>
     </List>

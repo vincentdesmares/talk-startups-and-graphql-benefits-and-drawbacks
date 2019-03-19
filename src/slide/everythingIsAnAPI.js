@@ -14,12 +14,15 @@ export default (
       <p>Very good default developer experience.</p>
     </Notes>
     <Heading size={6} textColor="WHITE" caps fit>
-      EVERYTHING IS AN API
+      A FLEXIBLE API
+    </Heading>
+    <Heading size={6} textColor="blue" caps fit>
+      IS AN EASY TO SELL API
     </Heading>
     <List>
-      <ListItem>Avoid client-specific code</ListItem>
+      <ListItem>Avoid customer specific code</ListItem>
       <ListItem>Subscriptions allows for real-time notice</ListItem>
-      <ListItem>Kind-of replace the webhooks</ListItem>
+      <ListItem>And kind-of replace WebHooks</ListItem>
     </List>
   </Slide>
 )

@@ -28,7 +28,7 @@ export default (
       </p>
     </Notes>
     <Heading fit textColor="pink" caps>
-      They said to use APIs
+      USING EXTERNAL APIs
     </Heading>
     <List>
       <ListItem>Schema stitching</ListItem>

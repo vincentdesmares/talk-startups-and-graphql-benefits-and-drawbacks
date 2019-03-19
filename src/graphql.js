@@ -8,7 +8,8 @@ export default function Graphql({ style, className = '' }) {
       opacity: 0;
       stroke-dashoffset: 450;
       stroke-dasharray: 450;
-      animation: appearOuterPath 1.2s 200ms ease-out forwards;
+      transform-origin: center;
+      animation: appearOuterPath 1.2s 200ms ease-out forwards, rotateOuterPath 4s 1.4s ease-in-out infinite;
     }
     .graphqlLogo .innerPath {
       opacity: 0;
@@ -18,6 +19,7 @@ export default function Graphql({ style, className = '' }) {
     }
     .dot1, .dot2, .dot3, .dot4, .dot5, .dot6 {
       opacity: 0;
+      transform-origin: center;
     }
     .dot1 {
       animation: appearDots 400ms 200ms ease-out forwards;
@@ -60,6 +62,18 @@ export default function Graphql({ style, className = '' }) {
     100% {
       stroke-dashoffset: 0;
       opacity: 1;
+    }
+  }
+
+  @keyFrames rotateOuterPath {
+    0% {
+      transform: rotateZ(0deg);
+    }
+    50% {
+      transform: rotateZ(360deg);
+    }
+    100% {
+      transform: rotateZ(360deg);
     }
   }
 

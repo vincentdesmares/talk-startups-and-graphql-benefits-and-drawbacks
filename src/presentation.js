@@ -26,6 +26,7 @@ import performances from './slide/performances'
 import beConfident from './slide/beConfident'
 import someChangesAreHarderThanOthers from './slide/someChangesAreHarderThanOthers'
 import youDoNotHaveToChooseAlone from './slide/youDoNotHaveToChooseAlone'
+import smartRights from './slide/smartRights'
 
 require('normalize.css')
 
@@ -62,6 +63,7 @@ export default class Presentation extends React.Component {
         {openSource}
         {evolutionReady}
         {performances}
+        {smartRights}
         {adaptable}
         {speedAndBugs}
         {someChangesAreHarderThanOthers}
