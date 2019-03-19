@@ -60,3 +60,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Contact
 
 vincent.desmares@gmail.com
+
+### Thanks
+
+Illustrations from the amazing site [undraw.co](https://undraw.co/illustrations), by [@NinaLimpi](https://twitter.com/NinaLimpi).
